@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Advanced web designing</title></title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <table border="2">
+    <br><tr><td bgcolor="cyan" colspan="6" align="center">Tourist places</td></tr></br>
+    <tr><td bgcolor="yellow">
+      <br>City</br>
+      <ol type="1"><li>Pune</li>
+      <li>Banglore</li>
+      <li>Hyderabad</li>
+      <li>Delhi</li></ol>
+      <td bgcolor="pink">
+        <br>Tourist places in Pune</br>
+        <ul><li>Shanhiwarwada</li>
+        <li>Khelkar Museum</li
+        <li>Sinhgad fort</li></ol>
+      
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
